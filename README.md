@@ -1,2 +1,2 @@
 # Hello-cpp
-My first cpp program
+برنامجي الأول cpp ☆ｏ(＞＜；)○
